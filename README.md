@@ -1,6 +1,10 @@
-# Termux-java
-## Termux-java-installer  Java installer for Termux.
+## Java installer for Termux.
 ## ( Only for Android < Oreo )
-### Steps
-1. `sh installjava`
-2. Now you can execute java
+### How to use it?
+1. Open your termux
+2. Installation dependency
+> pkg install git curl
+3. Perform a one-key installation
+> curl -sL https://raw.githubusercontent.com/yaoxiaonie/Termux-java/master/Java-installer.sh | sh
+4. Done...Enjoy 
+> java -version
