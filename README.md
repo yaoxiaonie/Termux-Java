@@ -1,5 +1,5 @@
 ## Java installer for Termux.
-## ( Only for Android < Oreo )
+## ( Only for Android Oreo+（aarch and aarch64) )
 ### How to use it?
 1. Open your termux
 2. Installation dependency
