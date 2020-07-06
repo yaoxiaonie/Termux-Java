@@ -10,7 +10,7 @@
 > java -version
 ### Solutions to several problems 
 1.If you don't have root 
-> pkg install chroot
+> pkg install proot
 
 Start command
 > termux-chroot
