@@ -11,9 +11,11 @@
 ### Solutions to several problems 
 1.If you don't have root 
 > pkg install chroot
+
 Start command
 > termux-chroot
 2. If you have root, but still report an error 
 > pkg install tsu
+
 Start command
 > tsu
