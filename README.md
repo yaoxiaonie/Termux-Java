@@ -8,10 +8,12 @@
 > curl -sL https://raw.githubusercontent.com/yaoxiaonie/Termux-Java/master/Java-installer.sh | sh
 4. Done...Enjoy 
 > java -version
-Solutions to several problems 
+### Solutions to several problems 
 1.If you don't have root 
 > pkg install chroot
+Start command
 > termux-chroot
 2. If you have root, but still report an error 
 > pkg install tsu
+Start command
 > tsu
