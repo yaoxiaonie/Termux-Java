@@ -15,7 +15,7 @@
 Start command
 > termux-chroot
 
-2. If you have root, but still report an error 
+2.If you have root, but still report an error 
 > pkg install tsu
 
 Start command
