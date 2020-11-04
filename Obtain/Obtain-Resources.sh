@@ -20,7 +20,7 @@ set_arch() {
 }
 
 get_tar() {
-    wget -c https://github.com/yaoxiaonie/Res-termux-java/raw/master/jdk8_${ARCH}.tar.gz -O jdk8_$ARCH.tar.gz
+    wget -c https://github.com/yaoxiaonie/Termux-Java/releases/download/1.0/jdk8_${ARCH}.tar.gz -O jdk8_$ARCH.tar.gz
     tar -xf jdk8_$ARCH.tar.gz -C $PREFIX/share 
     chmod +x $PREFIX/share/bin/*
     mv $PREFIX/share/bin/* $PREFIX/bin
